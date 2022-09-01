@@ -24,4 +24,8 @@ function createPost(post, callback){
 
 
 
+
+
 createPost({title:'post 3', body: 'this is title 3'},getpost);
+
+const x = 13
